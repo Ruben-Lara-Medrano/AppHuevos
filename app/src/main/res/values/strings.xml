@@ -13,4 +13,11 @@
     <string name="pass2">Introduzca de nuevo su contraseña</string>
     <string name="btnregistrarse">Registrarte</string>
 
+    <!--Stings de la MainActivity -->
+    <string name="btnAddHuevo">Añadir huevo</string>
+    <string name="btnComprobarHuevos">Mostrar huevos</string>
+    <string name="btnEliminarrHuevo">Eliminar huevo</string>
+    <string name="btnSalirSesion">Cerrar Sesion</string>
+
 </resources>
+
