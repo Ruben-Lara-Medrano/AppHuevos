@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730674800498",
+    "firebase_url": "https://apphuevos-c119b.firebaseio.com",
+    "project_id": "apphuevos-c119b",
+    "storage_bucket": "apphuevos-c119b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730674800498:android:b806c560a46501d5dc5feb",
+        "android_client_info": {
+          "package_name": "com.example.apphuevos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730674800498-q230egkclm23macp6cmvpb4rm5t82f2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN-WnQx9PXSIGH1WesZq8Bp89DA2VZMh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730674800498-q230egkclm23macp6cmvpb4rm5t82f2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppHuevos</string>
+    <!--Login strings -->
+    <string name="Email">Introduzca su correo electronico</string>
+
+    <string name="pass">Introduzca su contraseña</string>
+
+    <string name="registrarse">Pulsa aqui para registrarte</string>
+
+    <string name="login">Entrar en la aplicacion</string>
+
+    <!--Registro -->
+    <string name="pass2">Introduzca de nuevo su contraseña</string>
+    <string name="btnregistrarse">Registrarte</string>
+
+</resources>
