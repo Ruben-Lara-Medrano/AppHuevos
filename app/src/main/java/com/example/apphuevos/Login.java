@@ -48,9 +48,7 @@ public class Login extends AppCompatActivity {
     }
 
     public void iniciarSesion (View view){
-
-        //falta hacer la funcion de si esta vacio los campos.
-        //falta hacer un boton logout
+        //TODO : pendiente hacer comprobar que los apartado no esten vacios y hacer un boton de logout. Hacer un diseño chulo y seguir con la activity main y sus funcionaliades
         mAuth.signInWithEmailAndPassword(correo.getText().toString().trim(), pass.getText().toString().trim())
                 .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
                     @Override

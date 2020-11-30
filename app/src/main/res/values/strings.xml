@@ -19,5 +19,12 @@
     <string name="btnEliminarrHuevo">Eliminar huevo</string>
     <string name="btnSalirSesion">Cerrar Sesion</string>
 
+    <!--Agregar huevos -->
+    <string name="btnagregarHuevos">Agregar huevos</string>
+    <string name="pesoHuevo">Peso Huevo:</string>
+    <string name="fecha">Fecha insercion:</string>
+    <string name="ColorHuevo">Color Huevo:</string>
+    <string name="diametroAlturaHuevo">Altura Huevo:</string>
+    <string name="diametroAnchoHuevo">Ancho Huevo:</string>
 </resources>
 

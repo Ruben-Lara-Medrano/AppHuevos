@@ -47,5 +47,6 @@
             android:layout_height="wrap_content"
             android:onClick="registrarUsuario"
             android:text="@string/btnregistrarse" />
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
