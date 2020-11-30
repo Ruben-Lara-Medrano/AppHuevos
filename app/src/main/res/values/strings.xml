@@ -26,5 +26,12 @@
     <string name="ColorHuevo">Color Huevo:</string>
     <string name="diametroAlturaHuevo">Altura Huevo:</string>
     <string name="diametroAnchoHuevo">Ancho Huevo:</string>
+
+    <!-- Activity Mostrar Huevos-->
+    <string name="titleBuscarHuevos">Que huevos buscas?</string>
+    <string name="txvDia">Dia</string>
+    <string name="btnCalendario">Indicar fecha</string>
+
+
 </resources>
 

@@ -11,15 +11,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppHuevos">
-        <activity android:name=".InsercionHuevo"></activity>
-        <activity android:name=".Registro" />
-        <activity android:name=".MainActivity"></activity>
-        <activity android:name=".Login">
+        <activity android:name=".Calendario"></activity>
+        <activity android:name=".MostrarHuevos">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".InsercionHuevo" />
+        <activity android:name=".Registro" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Login">
+
         </activity>
     </application>
 
